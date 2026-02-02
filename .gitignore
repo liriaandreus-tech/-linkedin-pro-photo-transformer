@@ -11,7 +11,7 @@ lerna-debug.log*
 node_modules
 
 # Build output
-# dist  <-- Temporarily allowing this to be pushed
+dist
 dist-ssr
 
 # Local environment variables
