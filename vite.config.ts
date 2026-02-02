@@ -5,6 +5,8 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
+      // This is the new line you need to add
+      base: '/-linkedin-pro-photo-transformer/',
       server: {
         port: 3000,
         host: '0.0.0.0',
