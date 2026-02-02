@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "io.github.liriaandreus_tech.linkedin_pro_photo_transformer",
+  "variantName": "release",
+  "elements": []
+}

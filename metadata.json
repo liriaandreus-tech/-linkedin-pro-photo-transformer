@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Pro Photo Transformer",
+  "description": "Transforme suas fotos casuais em retratos profissionais de alta qualidade para o LinkedIn usando IA avançada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,4 @@
+#Mon Feb 02 03:27:47 BRT 2026
+base.0=C\:\\Users\\sword\\Downloads\\linkedin-pro-photo-transformer\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
